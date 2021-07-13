@@ -1,2 +1,2 @@
 # iRis
-Radiology information system.
+Radiology information system
